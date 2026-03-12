@@ -1,0 +1,10 @@
+D:\програмирование\WinFormsApp\bin\Release\WinFormsApp.exe.config
+D:\програмирование\WinFormsApp\bin\Release\WinFormsApp.exe
+D:\програмирование\WinFormsApp\bin\Release\WinFormsApp.pdb
+D:\програмирование\WinFormsApp\obj\Release\WinFormsApp.csproj.AssemblyReference.cache
+D:\програмирование\WinFormsApp\obj\Release\WinFormsApp.Form1.resources
+D:\програмирование\WinFormsApp\obj\Release\WinFormsApp.Properties.Resources.resources
+D:\програмирование\WinFormsApp\obj\Release\WinFormsApp.csproj.GenerateResource.cache
+D:\програмирование\WinFormsApp\obj\Release\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\програмирование\WinFormsApp\obj\Release\WinFormsApp.exe
+D:\програмирование\WinFormsApp\obj\Release\WinFormsApp.pdb
